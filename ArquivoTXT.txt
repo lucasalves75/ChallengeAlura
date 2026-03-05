@@ -1,3 +1,1 @@
-qwertyuipasdfghjklzxcvbnm
-
-123456
+4) Atualize seu repositório local a partir do Remoto.
